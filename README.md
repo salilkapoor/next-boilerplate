@@ -1,7 +1,7 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-# Character Dictionary
-- A simple to see data for various characters, performance filters, search on data & sort.
+# Nextjs Boilerplate
+- A minimal boilerplate for nextjs app.
 
 ## Features
 - Development - Unit Testing (React Testing Library)
