@@ -1,0 +1,11 @@
+@import '../../../styles/index.scss';
+
+.card {
+    &__character-para {
+        font-size: rem(14px);
+        color: $base-color;
+    }
+    &__character-title {
+        font-size: rem(22px);
+    }
+}
