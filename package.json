@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "Salil Kapoor",
   "license": "ISC",
-  "repository": "",
+  "repository": "https://github.com/salilkapoor/next-boilerplate",
   "scripts": {
     "dev": "next",
     "build": "next build",
