@@ -12,7 +12,7 @@ describe('TS-001: Para test Suite', () => {
     );
     expect(container).toBeDefined();
 
-    const element = container.querySelector('Para');
+    const element = container.querySelector('p');
 
     expect(element).toBeDefined();
     expect(element.className).toBe('Para-element');
